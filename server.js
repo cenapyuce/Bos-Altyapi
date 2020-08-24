@@ -13,4 +13,4 @@ require("./komutyükleyici.js")(client)
 const gen = require("./modules/generatepassword.js")
 
 
-client.login(process.env.TOKEN)
+client.login(ayarlar.token)
