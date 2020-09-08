@@ -2,7 +2,7 @@
 
 ## Bilgi
 - `Cenap` Tarafından Yapılmıştır **Eğer İzinsiz bir şekilde Paylaşılması durumunda En son işlemler Uygulancaktır!**
-- **Bu altyapı [`Rise Development`](https://discord.gg/PEytqzN) Adlı sunucuya Aittir!**
+- **Bu altyapı [`Rise Development`](https://discord.gg/2NQVp5G) Adlı sunucuya Aittir!**
 - **Web Site İstiyorsanız Bu Projeye 1k star Gelmesi Lazım! <3**
 
 
